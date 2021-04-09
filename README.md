@@ -1,5 +1,11 @@
 # Noel-Castillo-Public-Portfolio
 
+## Contact Information
+
+   Email: ncastillo@talentpath.com
+   Phone: (760) 978-8677
+   LinkedIn: https://www.linkedin.com/in/noel-castillo77/
+
 ## About Me
 
    Analytically driven full stack developer with +1 years’ experience. Has
