@@ -31,7 +31,6 @@ communications (fluent in Spanish and English), and scalability.
 #### Role: Owner and Creator
 * A full-stack web application using Java, Maven, and Spring Boot for the backend. Angular, Typescript, HTML, and CSS for frontend. PostgreSQL for the database. This application allows for a user to create a work week for their place of business, and then create individual positions per day that can then be filled by allocating an employee to the position. The work week, individual days, positions, and employees can all be created, edited, deleted, or retrieved from the database. The application also allows a user to view the complete schedule for each individual employee by listing their upcoming positions, dates and shifts.
 
-<hr><hr>
 
 ### Project Name: Caravan
 #### Role: Lead Developer
@@ -42,8 +41,6 @@ create/login to their profile, interact with other users via a chat
 feature, and create/delete/edit/view generated road trip events in
 which multiple users are able to interact with one another to
 schedule road trips with beginning and end dates.
-
-<hr><hr>
 
 ### Project Name: Boop
 #### Role: Lead Developer
