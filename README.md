@@ -55,8 +55,7 @@ schedule road trips with beginning and end dates.
 ##### May 2020 – January 2021; Fort Belvoir, VA.
 
 * As a Java Developer for Business Integra, I reviewed security vulnerabilities using Fortify SSC and implemented code updates using Java.
-* Upgraded libraries for applications using Java and AngularJS,
-* Reviewed applications for adherence to the Security Technical
-Implementation Guide (STIG checklist)
-* Participated in Agile with the team as a developer role,
+* Upgraded libraries for applications using Java.
+* Reviewed applications for adherence to the Security Technical Implementation Guide (STIG checklist).
+* Participated in Agile with the team as a developer role.
 * Used GitLab for collaborative programming.
