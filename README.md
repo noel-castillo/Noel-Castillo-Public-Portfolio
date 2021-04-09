@@ -10,14 +10,9 @@
 * **LinkedIn:** [https://www.linkedin.com/in/noel-castillo77/](https://www.linkedin.com/in/noel-castillo77/)
 
 ### Education
-* Skill Distillery (September 2019 - January 2020)
-* Coding Bootcamp
-* Full-Stack Development with Java
+* Skill Distillery (September 2019 - January 2020) / Coding Bootcamp / Full-Stack Development with Java
 
-
-* Framingham State University (2017 - 2019)
-* Bachelor of Science (BS)
-* Business Management Major, Accounting Minor
+* Framingham State University (2017 - 2019) / Bachelor of Science (BS) / Business Management Major, Accounting Minor
 
 ### Summary
 Analytically driven full stack developer with +1 years’ experience. Has
