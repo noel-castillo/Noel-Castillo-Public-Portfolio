@@ -10,9 +10,9 @@
 * **LinkedIn:** [https://www.linkedin.com/in/noel-castillo77/](https://www.linkedin.com/in/noel-castillo77/)
 
 ### Education
-* Skill Distillery (September 2019 - January 2020) / Coding Bootcamp / Full-Stack Development with Java
+* Skill Distillery (September 2019 - January 2020) / Coding Bootcamp : Full-Stack Development with Java
 
-* Framingham State University (September 2017 - August 2019) / Bachelor of Science (BS) / Business Management Major, Accounting Minor
+* Framingham State University (September 2017 - August 2019) / Bachelor of Science (BS) : Business Management Major, Accounting Minor
 
 ### Summary
 Analytically driven full stack developer with +1 years’ experience. Has
@@ -49,15 +49,6 @@ schedule road trips with beginning and end dates.
 <hr><hr>
 
 ## Experience:
-
-### Full-Stack Developer
-#### Talent Path
-##### January 2020 – Current; Washington D.C.
-
-* Bacon ipsum dolor amet burgdoggen kielbasa ball tip ground round corned beef venison sirloin.
-* Pig short ribs sausage ribeye biltong short loin pork spare ribs swine strip steak meatball.
-* Picanha pork chop spare ribs bacon jerky shoulder drumstick turducken pancetta.
-* Sirloin kielbasa burgdoggen fatback.
 
 ### Java Developer
 #### Business Integra Contractor for Defense Technical Institute Center (DTIC)
