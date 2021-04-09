@@ -2,9 +2,9 @@
 
 ## Contact Information
 
-   Email: ncastillo@talentpath.com
-   Phone: (760) 978-8677
-   LinkedIn: https://www.linkedin.com/in/noel-castillo77/
+   Email: ncastillo@talentpath.com <br>
+   Phone: (760) 978-8677 <br>
+   LinkedIn: https://www.linkedin.com/in/noel-castillo77/ <br>
 
 ## About Me
 
